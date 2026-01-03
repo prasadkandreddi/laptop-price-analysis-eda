@@ -1,0 +1,985 @@
+,Brand,Model,Ram,Rom,Screen_size,Operating System,Processor,Warranty,Price
+0,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+1,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+2,Samsung,Galaxy,16,512,15.6,Windows 11,512,1,"22,000 "
+3,Acer,NITRO,16,512,16,64 bit Windows 11 Home,512,1,"24,000 "
+4,Acer,Aspire,8,256,11.6,64 bit Windows 11 Home,256,1,
+5,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+6,ASUS,Expertbook,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+7,DELL,G15,16,,15.6,Windows 11,6,1,"22,000 "
+8,ASUS,Expertbook,16,512,14,Windows 11 Home,512,1,"22,000 "
+9,HP,Victus,16,512,15.6,Windows 11 Home,512,1,
+10,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+11,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+12,HP,Victus,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+13,Samsung,Galaxy,8,512,15.6,Windows 11,512,1,"22,000 "
+14,ASUS,Expertbook,8,512,15.6,Windows 11 Home,512,1,"22,000 "
+15,DELL,15,16,512,15.6,Windows 11,512,,"22,000 "
+16,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+17,DELL,15,16,512,15.6,Windows 11 Home,512,,"22,000 "
+18,Acer,Nitro,16,512,15.6,64 bit Windows 11 Home,512,1,"25,000 "
+19,Samsung,Galaxy,16,512,15.6,Windows 11,512,1,"22,000 "
+20,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+21,Lenovo,IdeaPad,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+22,Acer,Aspire,16,512,15.6,Windows 11,512,1,"24,000 "
+23,DELL,15,16,512,15.6,Windows 11,512,1,
+24,ASUS,Expertbook,32,512,14,Windows 11 Home,512,1,"22,000 "
+25,Acer,Aspire,8,512,11.6,64 bit Windows 11 Home,512,1,
+26,DELL,Inspiron,16,512,15.6,Windows 11,512,,"22,000 "
+27,DELL,16,16,512,16,Windows 11,,1,"22,000 "
+28,Acer,Aspire,8,512,14,64 bit Windows 11,512,1,"22,000 "
+29,DELL,15,8,512,15.6,Windows 11 Home,512,,
+30,DELL,14,16,512,14,Windows 11,512,1,"22,000 "
+31,ASUS,Chromebook,4,,15.6,Chrome,64,1,"11,000 "
+32,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+33,Acer,Aspire,8,512,15.6,Windows 11 Home,512,1,"20,000 "
+34,Acer,Aspire,8,512,15.6,Windows 11,512,1,"22,000 "
+35,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+36,Acer,Aspire,8,128,11.6,64 bit Windows 11 Home,128,1,"12,000 "
+37,Apple,MacBook,16,256,13.6,Mac OS,256,1,"22,000 "
+38,Acer,Aspire,16,512,14,Windows 11,512,1,"22,000 "
+39,ASUS,Vivobook,16,512,15.6,Windows 11 Home,512,1,
+40,HP,15,16,512,15.6,Windows 11 Home,512,1,
+41,Acer,Aspire,16,,15.6,Windows 11,,1,"22,000 "
+42,ASUS,Vivobook,16,512,15.6,Windows 11 Home,,1,"22,000 "
+43,Acer,Swift,16,,14,64 bit Windows 11 Home,,1,"24,000 "
+44,Lenovo,Yoga,16,,14,Windows 11,,,"22,000 "
+45,Acer,Aspire,16,512,14,Windows 11,512,1,"24,000 "
+46,DELL,Inspiron,8,512,14,64 bit Windows 11 Home,512,,
+47,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,
+48,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+49,Lenovo,100e,8,,11.6,Chrome,64,1,"10,000 "
+50,DELL,Inspiron,16,512,15.6,Windows 11,512,,"22,000 "
+51,DELL,16,16,512,16,Windows 11,,1,"22,000 "
+52,Acer,Swift,16,512,14,64 bit Windows 11 Home,512,1,"24,000 "
+53,Acer,Aspire,8,512,14,Windows 11,512,1,"22,000 "
+54,Acer,Aspire,16,,15.6,64 bit Windows 11,,1,
+55,MOTOROLA,Motobook,16,512,14,64 bit Windows 11,512,1,"22,000 "
+56,DELL,14,16,512,14,Windows 11,512,1,"22,000 "
+57,MOTOROLA,Motobook,16,,14,64 bit Windows 11,,1,"22,000 "
+58,Acer,Aspire,16,512,14,64 bit Windows 11 Home,512,1,"24,000 "
+59,Lenovo,V,16,512,14,64 bit Windows 11,512,1,
+60,ASUS,Vivobook,8,512,15.6,Windows 11,512,1,
+61,Acer,Swift,16,,14,64 bit Windows 11 Home,,1,
+62,Acer,Aspire,8,512,15.6,Windows 11,512,1,"22,000 "
+63,HP,15,8,512,15.6,Windows 11,512,1,"22,000 "
+64,ASUS,Vivobook,16,512,15.6,Windows 11 Home,,1,"26,000 "
+65,ASUS,TUF,16,512,15.6,Windows 11 Home,512,1,
+66,ASUS,Chromebook,4,,14,Chrome,64,1,
+67,Acer,Aspire,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+68,ASUS,Vivobook,8,512,15.6,Windows 11 Home,,1,"26,000 "
+69,DELL,14,16,512,14,64 bit Windows 11,512,,
+70,Lenovo,IdeaPad,8,512,15.6,64 bit Windows 11,512,,"22,000 "
+71,Acer,Aspire,16,512,15.6,Windows 11,512,1,"22,000 "
+72,MSI,Thin,16,512,15.6,Windows 11,512,2,
+73,Lenovo,Chromebook,4,,14,Chrome,128,1,"11,000 "
+74,HP,AMD,16,512,15.6,Windows 11,512,1,"22,000 "
+75,Thomson,Intel,4,128,14.1,64 bit Windows 11,128,1,"11,000 "
+76,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+77,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+78,Lenovo,V,16,512,14,64 bit Windows 11 Home,512,1,
+79,Lenovo,IdeaPad,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+80,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+81,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+82,ASUS,Vivobook,8,512,14,Windows 11 Home,512,1,
+83,HP,Intel,16,512,15.6,Windows 11 Home,512,1,"24,000 "
+84,Acer,Aspire,16,,15.6,64 bit Windows 11 Home,,1,"22,000 "
+85,ASUS,Vivobook,8,512,14,Windows 11 Home,,1,"26,000 "
+86,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+87,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+88,Acer,Chromebook,8,,14,Chrome,64,1,"13,500 "
+89,DELL,Inspiron,16,512,15.6,64 bit Windows 11,512,,"22,000 "
+90,Acer,Nitro,16,512,15.6,64 bit Windows 11 Home,512,1,"25,000 "
+91,HP,Intel,8,512,15.6,Windows 11 Home,512,1,"22,000 "
+92,DELL,Inspiron,16,,15.6,Windows 11,,,"22,000 "
+93,Acer,Aspire,8,512,15.6,Windows 11,512,1,"22,000 "
+94,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"22,000 "
+95,HP,Intel,12,512,15.6,Windows 11 Home,512,1,"22,000 "
+96,DELL,Inspiron,16,512,15.6,Windows 11,512,,"22,000 "
+97,DELL,16,16,512,16,Windows 11,,1,"22,000 "
+98,ASUS,Vivobook,8,512,14,Windows 11 Home,512,1,"26,000 "
+99,ASUS,Vivobook,16,512,15.6,Windows 11 Home,,1,"26,000 "
+100,DELL,14,16,512,14,Windows 11,512,1,"22,000 "
+101,DELL,Latitude,16,512,14,64 bit Windows 11 Home,512,1,"22,000 "
+102,GIGABYTE,G,16,512,16,Windows 11,512,,
+103,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+104,Acer,Aspire,8,512,15.6,Windows 11,512,1,
+105,ASUS,Expertbook,8,512,14,Windows 11 Home,512,1,"22,000 "
+106,HP,255,8,256,15.6,64 bit Windows 11,256,1,
+107,ASUS,Vivobook,16,512,14,Windows 11 Home,,1,"26,000 "
+108,HP,15,8,256,15.6,64 bit Windows 11 Home,256,1,"22,000 "
+109,ASUS,Vivobook,16,512,15.6,Windows 11 Home,,1,"26,000 "
+110,DELL,14,16,512,14,Windows 11,512,1,"22,000 "
+111,HP,15,8,512,15.6,64 bit Windows 11,512,1,
+112,Lenovo,IdeaPad,24,,15.3,Windows 11 Home,,1,"22,000 "
+113,ASUS,Vivobook,8,512,14,Windows 11 Home,,1,"26,000 "
+114,Lenovo,IdeaPad,16,512,15.6,Windows 11,512,1,
+115,Ultimus,APEX,8,512,14.1,64 bit Windows 11 Home,512,1,"13,500 "
+116,ASUS,Vivobook,16,512,14,Windows 11 Home,,1,"26,000 "
+117,HP,Professional,16,512,14,64 bit Windows 11,,,"22,000 "
+118,Lenovo,IdeaPad,16,,14,Windows 11,,1,"22,000 "
+119,DELL,Intel,8,512,15.6,Windows 11,512,,
+120,DELL,Inspiron,16,512,15.6,Windows 11,512,,"22,000 "
+121,DELL,16,16,512,16,Windows 11,,1,"22,000 "
+122,HP,Intel,12,512,15.6,Windows 11 Home,512,1,"22,000 "
+123,Acer,Aspire,8,512,15.6,Windows 11,512,1,"20,000 "
+124,Lenovo,LOQ,24,512,15.6,Windows 11,512,1,"22,000 "
+125,DELL,Inspiron,8,512,14,64 bit Windows 11 Home,512,,
+126,DELL,14,16,512,14,Windows 11,512,1,"22,000 "
+127,Acer,Aspire,8,256,15.6,Windows 11,256,1,"22,000 "
+128,Acer,Aspire,8,512,15.6,Windows 11 Home,512,1,"20,000 "
+129,Lenovo,IdeaPad,16,512,15.6,Windows 11,512,1,
+130,Lenovo,IdeaPad,8,512,15.6,Windows 11,512,,
+131,Lenovo,IdeaPad,16,512,15.6,Windows 11,512,,"22,000 "
+132,ASUS,Expertbook,8,512,14,Windows 11 Home,512,1,"22,000 "
+133,HP,15,8,512,15.6,64 bit Windows 11,512,1,
+134,ASUS,Vivobook,8,512,15.6,Windows 11 Home,,1,"26,000 "
+135,ASUS,Vivobook,16,512,14,Windows 11 Home,,1,"26,000 "
+136,MSI,Thin,16,,15.6,Windows 11,6,2,"22,000 "
+137,Lenovo,LOQ,16,512,15.6,Windows 11 Home,512,1,"32,000 "
+138,HP,AMD,16,512,15.6,Windows 11,512,1,"22,000 "
+139,Lenovo,LOQ,16,512,15.6,Windows 11,512,,"22,000 "
+140,Lenovo,LOQ,12,512,15.6,Windows 11,512,,"22,000 "
+141,ASUS,Vivobook,16,512,15.6,Windows 11 Home,512,1,
+142,Lenovo,LOQ,12,512,15.6,Windows 11 Home,512,1,"22,000 "
+143,ASUS,Vivobook,16,512,15.6,Windows 11 Home,,1,"26,000 "
+144,Lenovo,V,16,512,14,64 bit Windows 11 Home,512,1,
+145,Lenovo,V15,16,512,15.6,Windows 11,512,1,
+146,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+147,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+148,DELL,Latitude,16,512,14,64 bit Windows 11 Home,512,1,"22,000 "
+149,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+150,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+151,Lenovo,IdeaPad,16,512,14,Windows 11 Home,512,1,"22,000 "
+152,Lenovo,IdeaPad,8,512,15.6,Windows 11 Home,512,1,"22,000 "
+153,MSI,Thin,16,512,15.6,Windows 11,512,2,"22,000 "
+154,HP,Victus,16,512,15.6,Windows 11 Home,512,1,
+155,Lenovo,IdeaPad,16,512,15.6,Windows 11,512,,"22,000 "
+156,Lenovo,IdeaPad,16,512,14,Windows 11,512,1,"22,000 "
+157,Lenovo,IdeaPad,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+158,Apple,MacBook,16,512,13,Mac OS,512,1,"22,000 "
+159,Apple,MacBook,8,512,13,Mac OS,512,1,"22,000 "
+160,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+161,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+162,DELL,15,8,512,15.6,64 bit Windows 11,512,,"22,000 "
+163,ASUS,TUF,16,,16,Windows 11 Home,,1,"32,000 "
+164,HP,15s,8,512,15.6,64 bit Windows 11,512,1,"22,000 "
+165,ASUS,TUF,16,,16,Windows 11 Home,6,1,"22,000 "
+166,Lenovo,Legion,16,512,,Windows 11 Home,512,,"22,000 "
+167,Acer,Nitro,16,512,15.6,64 bit Windows 11 Home,512,1,"25,000 "
+168,HP,AMD,8,512,15.6,64 bit Windows 11,512,1,
+169,Apple,MacBook,36,,16,Mac OS,,1,"22,000 "
+170,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+171,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+172,Apple,MacBook,36,,14,Mac OS,,1,"22,000 "
+173,ASUS,Zenbook,16,512,14,Windows 11 Home,,1,
+174,Apple,MacBook,36,,14,Mac OS,,1,"22,000 "
+175,HP,G10,16,512,15.6,Windows 11,512,1,
+176,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+177,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+178,MSI,Thin,16,512,15.6,Windows 11,512,2,"22,000 "
+179,Apple,M3,24,512,13.6,Mac OS,512,1,"22,000 "
+180,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+181,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+182,Acer,Aspire,16,,15.6,64 bit Windows 11 Home,,1,"22,000 "
+183,Apple,MacBook,48,,16,Mac OS,,1,"22,000 "
+184,Apple,M4,24,,14,Mac OS,,1,
+185,Infinix,B15,8,512,15.6,Windows 11,512,1,"22,000 "
+186,DELL,15,16,512,15.6,Windows 11 Home,512,,"22,000 "
+187,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+188,DELL,14,8,512,14,64 bit Windows 11,512,,
+189,Acer,TravelMate,16,,14,Windows 11,,1,
+190,Lenovo,IdeaPad,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+191,MOTOROLA,Motobook,16,512,14,64 bit Windows 11,512,1,"22,000 "
+192,ASUS,Vivobook,16,512,14,Windows 11 Home,,1,"26,000 "
+193,ASUS,Vivobook,16,512,14,Windows 11 Home,,1,"26,000 "
+194,HP,OmniBook,16,512,16,Windows 11,512,,
+195,HP,Pavilion,16,512,14,64 bit Windows 11,512,1,"22,000 "
+196,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+197,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+198,ASUS,TUF,16,,16,Windows 11 Home,6,1,"22,000 "
+199,HP,AMD,8,512,15.6,Windows 11,512,1,
+200,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+201,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+202,Apple,MacBook,36,,14,Mac OS,,1,"22,000 "
+203,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+204,Acer,Aspire,12,512,15.6,Windows 11 Home,512,1,"22,000 "
+205,Lenovo,Chromebook,4,,14,Chrome,128,1,"12,000 "
+206,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+207,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+208,HP,250R,8,512,15.6,Windows 11 Home,512,1,"22,000 "
+209,Apple,MacBook,18,512,14,Mac OS,512,1,"22,000 "
+210,DELL,15,16,512,15.6,Windows 11 Home,512,,"22,000 "
+211,Lenovo,IdeaPad,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+212,Apple,MacBook,8,512,14,Mac OS,512,1,"22,000 "
+213,Lenovo,IdeaPad,16,512,15.3,Windows 11 Home,512,1,"22,000 "
+214,Apple,M4,24,,14,Mac OS,,1,"22,000 "
+215,MSI,Katana,16,,15.6,64 bit Windows 11,6,2,"22,000 "
+216,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+217,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+218,Apple,M4,24,,14,Mac OS,,1,"22,000 "
+219,Acer,Aspire,8,512,15.6,Windows 11,512,1,
+220,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+221,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+222,Lenovo,LOQ,24,512,15.6,Windows 11 Home,512,1,"22,000 "
+223,ASUS,Vivobook,8,512,15.6,Windows 11,512,1,"26,000 "
+224,DELL,Inspiron,16,512,14,64 bit Windows 11 Home,512,1,
+225,HP,15s,8,512,15.6,Windows 11,512,1,"22,000 "
+226,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+227,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+228,HP,245,16,512,14,64 bit Windows 11 Home,512,1,
+229,HP,Intel,8,,14,Chrome,128,1,
+230,Acer,Nitro,16,512,15.6,64 bit Windows 11 Home,512,1,"25,000 "
+231,Lenovo,Chromebook,4,,14,Chrome,128,1,"11,000 "
+232,HP,250R,8,512,15.6,Windows 11 Home,512,1,"22,000 "
+233,ASUS,Vivobook,16,512,16,Windows 11 Home,,1,"26,000 "
+234,MSI,Thin,16,512,15.6,64 bit Windows 11,512,2,"25,000 "
+235,Apple,MacBook,16,512,14,Mac OS,512,1,
+236,HP,Intel,8,512,15.6,Windows 11 Home,512,1,"22,000 "
+237,ASUS,Chromebook,4,,15.6,Chrome,64,1,"11,000 "
+238,Lenovo,IdeaPad,8,512,15.6,Windows 11 Home,,1,"22,000 "
+239,ASUS,Vivobook,16,512,14,Windows 11 Home,,1,"26,000 "
+240,DELL,Inspiron,16,512,15.6,Windows 11,512,,"22,000 "
+241,DELL,16,16,512,16,Windows 11,,1,"22,000 "
+242,Lenovo,LOQ,24,,15.6,Windows 11 Home,8,1,"32,000 "
+243,DELL,Latitude,16,512,15.6,64 bit Windows 11 Home,512,1,"22,000 "
+244,Acer,TravelLite,8,512,14,64 bit Windows 11 Home,512,1,
+245,DELL,G15,16,,15.6,Windows 11,8,,
+246,DELL,14,16,512,14,Windows 11,512,1,"22,000 "
+247,Lenovo,IdeaPad,16,,14,Windows 11,,,"22,000 "
+248,Lenovo,IdeaPad,16,512,,Windows 11 Home,512,1,"22,000 "
+249,Acer,Aspire,16,512,15.6,Windows 11,512,1,
+250,ASUS,Gaming,16,512,16,Windows 11 Home,,,
+251,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+252,Acer,One,8,512,14,64 bit Windows 11,512,1,"20,000 "
+253,HP,Chromebook,4,,11.6,Chrome,32,1,"11,000 "
+254,ASUS,Chromebook,4,,14,Chrome,64,1,
+255,Acer,Nitro,16,512,15.6,64 bit Windows 11 Home,512,1,"25,000 "
+256,ASUS,Vivobook,16,512,15.6,Windows 11 Home,,1,
+257,DELL,15,8,512,15,Windows 11 Home,512,,
+258,DELL,Inspiron,16,512,15.6,64 bit Windows 11,512,,"22,000 "
+259,Lenovo,,16,512,14,Windows 11 Home,512,1,"22,000 "
+260,Apple,MacBook,16,512,15.3,Mac OS,512,1,"22,000 "
+261,Thomson,NEO,8,512,15.6,Windows 11,512,,"22,000 "
+262,Lenovo,LOQ,24,512,15.6,Windows 11,512,1,
+263,ASUS,Vivobook,16,512,15.6,Windows 11 Home,,1,"26,000 "
+264,Lenovo,Yoga,16,,14,Windows 11,,,"22,000 "
+265,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+266,DELL,Inspiron,16,512,15.6,Windows 11,512,,"22,000 "
+267,DELL,16,16,512,16,Windows 11,,1,"22,000 "
+268,Lenovo,Ideapad,16,512,15.6,Windows 11,512,,
+269,Primebook,2,8,,15.6,64 bit Android,256,1,
+270,DELL,14,16,512,14,Windows 11,512,1,"22,000 "
+271,Acer,Aspire,16,,14,64 bit Windows 11 Home,,1,"22,000 "
+272,ASUS,Vivobook,8,512,15.6,Windows 11,512,,"26,000 "
+273,ASUS,Zenbook,32,,14,Windows 11,,1,"26,000 "
+274,Lenovo,Lenovo,16,512,15.6,Windows 11,512,1,
+275,ASUS,TUF,16,512,17.3,Windows 11,512,1,"22,000 "
+276,Acer,Nitro,16,512,16,64 bit Windows 11,512,1,
+277,ASUS,Vivobook,16,512,14,Windows 11 Home,,1,"26,000 "
+278,ASUS,Vivobook,16,512,15.6,Windows 11 Home,,1,"26,000 "
+279,Lenovo,V,16,512,14,64 bit Windows 11,512,1,
+280,Lenovo,IdeaPad,16,512,14,Windows 11,512,,"22,000 "
+281,ASUS,TUF,32,,16,Windows 11 Home,,1,"32,000 "
+282,ASUS,Vivobook,16,512,14,Windows 11 Home,,1,"26,000 "
+283,HP,15,16,512,15.6,64 bit Windows 11,512,1,
+284,MSI,Thin,16,512,15.6,Windows 11,512,2,
+285,DELL,Inspiron,8,512,15.6,64 bit Windows 11,512,,"22,000 "
+286,Thomson,Intel,4,128,14.1,64 bit Windows 11,128,1,"11,000 "
+287,ASUS,Vivobook,8,512,14.1,64 bit Windows 11,512,1,"22,000 "
+288,MSI,Prestige,16,,13.3,Windows 11,,2,"22,000 "
+289,HP,Victus,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+290,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+291,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+292,HP,OMEN,24,,16,Windows 11 Home,8,1,"22,000 "
+293,Acer,Aspire,12,256,14,Windows 11,256,1,
+294,Acer,Aspire,8,512,15.6,Windows 11,512,1,
+295,Lenovo,Legion,32,,16,64 bit Windows 11 Home,8,1,"32,000 "
+296,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+297,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+298,Thomson,NEO,16,512,15.6,Windows 11,512,,"22,000 "
+299,DELL,3,16,512,15.6,64 bit Windows 11 Home,512,3,
+300,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+301,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+302,Apple,MacBook,16,512,13.6,Mac OS,512,1,"22,000 "
+303,Acer,Aspire,16,512,15.6,64 bit Windows 11 Home,512,3,
+304,ASUS,TUF,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+305,Acer,Predator,16,512,16,Windows 11,512,1,"22,000 "
+306,Acer,Nitro,16,512,15.6,64 bit Windows 11 Home,512,1,"25,000 "
+307,Lenovo,Chromebook,4,,14,Chrome,128,1,"11,000 "
+308,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+309,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,
+310,HP,Intel,8,512,15.6,Windows 11 Home,512,1,"22,000 "
+311,ASUS,Chromebook,4,,15.6,Chrome,64,1,"11,000 "
+312,DELL,Intel,8,512,15,Windows 11,512,1,"22,000 "
+313,Acer,Predator,16,,16,Windows 11,6,1,"22,000 "
+314,Acer,Aspire,16,512,15.6,64 bit Windows 11 Home,512,1,"24,000 "
+315,Lenovo,V,8,512,14,64 bit Windows 11,512,1,
+316,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+317,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+318,HP,255,8,256,15.6,64 bit Windows 11,256,1,
+319,ASUS,TUF,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+320,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+321,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+322,Acer,Aspire,16,512,14,64 bit Windows 11 Home,512,1,"22,000 "
+323,Lenovo,IdeaPad,16,512,14,Windows 11 Home,512,1,
+324,DELL,14,16,512,14,64 bit Windows 11,,1,
+325,ASUS,TUF,16,512,16,Windows 11 Home,,1,
+326,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+327,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+328,HP,255,8,256,15.6,64 bit Windows 11,256,1,
+329,ASUS,Chromebook,4,,15.6,Chrome,64,1,"11,000 "
+330,DELL,15,16,512,15.6,Windows 11 Home,512,,"22,000 "
+331,Lenovo,IdeaPad,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+332,Lenovo,V15,8,512,15.6,64 bit Windows 11,512,,
+333,HP,255,8,512,15.6,64 bit Windows 11,512,1,
+334,Primebook,Wifi,4,,11.6,Android,64,1,"13,000 "
+335,Ultimus,APEX,8,512,14.1,64 bit Windows 11 Home,512,1,"13,500 "
+336,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+337,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+338,ASUS,Chromebook,4,,15.6,Chrome,64,1,"11,000 "
+339,Primebook,Wifi,4,,11.6,Android,64,1,"13,000 "
+340,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+341,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+342,ASUS,Chromebook,8,,15.6,Chrome,128,1,"16,000 "
+343,HP,250R,16,512,15.6,64 bit Windows 11,512,,
+344,ASUS,X1504ZA,8,512,15.6,64 bit Windows 11,512,,
+345,HP,Victus,16,512,15.6,Windows 11 Home,512,1,
+346,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+347,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+348,Lenovo,IdeaPad,8,,15.6,Chrome,128,1,"20,000 "
+349,HP,255,8,512,15.6,64 bit Windows 11,512,1,
+350,Acer,Nitro,16,512,15.6,64 bit Windows 11 Home,512,1,"25,000 "
+351,Lenovo,Chromebook,4,,14,Chrome,128,1,"11,000 "
+352,ASUS,Vivobook,16,512,14,Windows 11 Home,,1,"26,000 "
+353,DELL,Intel,16,,13.3,Windows 11 Home,8,,"22,000 "
+354,ASUS,Zenbook,16,512,14,Windows 11 Home,,1,
+355,ASUS,Expertbook,16,512,15.6,Windows 11 Home,512,1,
+356,HP,Intel,8,512,15.6,Windows 11 Home,512,1,"22,000 "
+357,ASUS,Chromebook,4,,15.6,Chrome,64,1,"11,000 "
+358,MSI,Intel,8,512,15,Windows 11,512,1,"22,000 "
+359,ASUS,Vivobook,16,512,16,Windows 11 Home,,1,"22,000 "
+360,DELL,Inspiron,16,512,15.6,Windows 11,512,,"22,000 "
+361,DELL,16,16,512,16,Windows 11,,1,"22,000 "
+362,DELL,14,16,512,14,64 bit Windows 11,512,,
+363,Lenovo,IdeaPad,32,,14,Windows 11,,1,
+364,Lenovo,V,16,512,15.6,64 bit Windows 11,512,1,
+365,Acer,Aspire,16,512,15.6,64 bit Windows 11 Home,512,1,"22,000 "
+366,DELL,14,16,512,14,Windows 11,512,1,"22,000 "
+367,DELL,14,16,512,14,Windows 11,512,,"22,000 "
+368,Lenovo,LOQ,24,512,15.6,Windows 11,512,,"22,000 "
+369,Acer,Aspire,16,512,15.6,Windows 11,512,1,"24,000 "
+370,ASUS,Vivobook,8,512,14,Windows 11 Home,512,1,"22,000 "
+371,MSI,Modern,16,512,14,Windows 11,512,1,"22,000 "
+372,ASUS,Vivobook,16,512,15.6,Windows 11,512,1,
+373,ASUS,Vivobook,8,512,15.6,Windows 11,512,1,"22,000 "
+374,HP,240R,16,512,14,64 bit Windows 11,512,1,
+375,Lenovo,V15,8,512,15.6,Windows 11,512,1,"22,000 "
+376,MSI,Intel,8,512,14,Windows 11,512,1,"22,000 "
+377,MSI,Modern,8,512,14,Windows 11,512,1,"22,000 "
+378,HP,OMEN,24,,16,Windows 11 Home,8,1,
+379,ASUS,Vivobook,8,512,15.6,Windows 11 Home,,1,"26,000 "
+380,Lenovo,LOQ,12,512,15.6,Windows 11,512,1,"22,000 "
+381,Apple,MacBook,16,512,13.6,Mac OS,512,1,"22,000 "
+382,ASUS,Vivobook,8,512,15.6,Windows 11,512,1,
+383,Lenovo,IdeaPad,16,512,15.6,Windows 11,512,,"22,000 "
+384,ASUS,Vivobook,8,512,15.6,Windows 11,512,1,"22,000 "
+385,HP,Backlit,8,512,15.6,64 bit Windows 11,512,1,"22,000 "
+386,DELL,Inspiron,16,512,15.6,Windows 11,512,,"22,000 "
+387,DELL,16,16,512,16,Windows 11,,1,"22,000 "
+388,ASUS,Vivobook,16,512,15.6,Windows 11 Home,512,1,
+389,HP,AMD,8,512,14,Windows 11,512,,
+390,DELL,14,16,512,14,Windows 11,512,1,"22,000 "
+391,Lenovo,V15,8,512,15.6,Windows 11,512,1,
+392,Acer,Aspire,8,512,15.6,Windows 11,512,1,"24,000 "
+393,DELL,PRO,8,512,15.6,64 bit Windows 11,512,,
+394,Lenovo,V,16,512,14,64 bit Windows 11,512,1,
+395,ASUS,Vivobook,16,512,16,Windows 11 Home,,1,"26,000 "
+396,ASUS,Gaming,16,512,16,64 bit Windows 11 Home,,1,
+397,Acer,Aspire,8,256,15.6,Windows 11,256,1,
+398,ASUS,Vivobook,16,512,16,Windows 11 Home,512,1,
+399,Acer,Aspire,16,512,15.6,Windows 11,512,1,"24,000 "
+400,Lenovo,V,16,512,15.6,64 bit Windows 11,512,,
+401,Acer,Predator,16,,16,64 bit Windows 11 Home,8,1,"25,000 "
+402,ASUS,ROG,16,,16,Windows 11 Home,,1,"28,000 "
+403,MICROSOFT,12,16,256,12,64 bit Windows 11 Home,256,1,
+404,ASUS,Chromebook,8,,15.6,Chrome,128,1,"20,000 "
+405,MSI,Katana,8,512,15.6,Windows 11,512,2,"22,000 "
+406,Samsung,Galaxy,16,,15.6,Windows 11,,1,"22,000 "
+407,Avita,E,8,512,15.6,64 bit Windows 11 Home,512,1,"20,000 "
+408,ASUS,ROG,16,,16,Windows 11 Home,,1,"28,000 "
+409,Infinix,ZERO,16,512,15.6,Windows 11,512,1,"22,000 "
+410,DELL,Inspiron,16,512,15.6,Windows 11,512,,"22,000 "
+411,DELL,16,16,512,16,Windows 11,,1,"22,000 "
+412,DELL,Vostro,16,512,15.6,Windows 11 Home,512,1,
+413,HP,Intel,8,512,15.6,64 bit Windows 11,512,1,
+414,ASUS,Vivobook,8,512,15.6,Windows 11,512,1,"26,000 "
+415,Apple,MacBook,24,512,13.6,Mac OS,512,1,"22,000 "
+416,DELL,14,16,512,14,Windows 11,512,1,"22,000 "
+417,DELL,Inspiron,8,512,15.6,64 bit Windows 11,512,,
+418,ASUS,Vivobook,16,512,15.6,Windows 11,512,1,
+419,ASUS,,4,,15.6,64 bit Windows 11 Home,500,1,"13,500 "
+420,Lenovo,Yoga,16,,14,Windows 11,,1,"22,000 "
+421,DELL,14,16,512,14,Windows 11,512,,"22,000 "
+422,HP,Laptop,8,512,15.6,64 bit Windows 11,512,1,"22,000 "
+423,Lenovo,IdeaPad,8,256,15.6,64 bit Windows 11,256,1,
+424,Acer,Aspire,8,512,15.6,64 bit Windows 11 Home,512,,"22,000 "
+425,HP,Intel,8,512,15.6,Windows 11 Home,512,1,"22,000 "
+426,Lenovo,IdeaPad,16,512,15.3,Windows 11 Home,512,1,"22,000 "
+427,ASUS,TUF,16,512,16,Windows 11 Home,,1,"22,000 "
+428,HP,Pavilion,16,,14,64 bit Windows 11,,1,
+429,HP,15R,8,512,15.6,64 bit Windows 11 Home,512,1,
+430,Samsung,Galaxy,16,512,15.6,Windows 11,512,1,"22,000 "
+431,ASUS,Chromebook,8,,14,Chrome,128,1,"22,000 "
+432,ASUS,ROG,16,,16,Windows 11 Home,,1,"28,000 "
+433,MSI,Intel,16,512,14,Windows 11,512,1,"22,000 "
+434,DELL,Latitude,8,512,14,64 bit Windows 11,512,1,
+435,DELL,Inspiron,8,512,15.6,64 bit Windows 11,512,,
+436,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+437,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+438,ASUS,Vivobook,16,512,15.6,Windows 11,512,1,
+439,HP,Intel,16,,15.6,Windows 11 Home,6,1,
+440,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+441,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+442,ASUS,Intel,16,512,14,Windows 11,512,1,
+443,HP,Chromebook,4,,14,64 bit Chrome,64,1,"20,000 "
+444,ASUS,Gaming,16,512,16,64 bit Windows 11 Home,,1,
+445,Acer,AMD,16,,15.6,Windows 11,,1,
+446,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+447,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+448,Lenovo,LOQ,16,512,15.6,Windows 11,512,,
+449,HP,Pavilion,16,512,14,Windows 11 Home,512,1,"22,000 "
+450,DELL,15,16,512,15.6,Windows 11 Home,512,,"22,000 "
+451,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+452,Lenovo,LOQ,12,512,15.6,Windows 11 Home,512,1,"22,000 "
+453,ASUS,Vivobook,16,512,14,Windows 11 Home,,,"26,000 "
+454,Samsung,Galaxy,32,,15.6,64 bit Windows 11,,1,"22,000 "
+455,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,
+456,HP,Pavilion,16,512,14,Windows 11 Home,512,1,"22,000 "
+457,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,
+458,Lenovo,V14,16,512,14,Windows 11,512,1,
+459,DELL,Inspiron,8,512,15.6,64 bit Windows 11,512,1,
+460,Lenovo,IdeaPad,8,512,14,Windows 11,512,,"22,000 "
+461,Lenovo,IdeaPad,8,512,14,Windows 11,512,,"22,000 "
+462,Lenovo,IdeaPad,8,512,15.6,Windows 11,512,,"22,000 "
+463,Lenovo,V,8,512,15.6,64 bit Windows 11,512,,
+464,MSI,Intel,16,512,14,Windows 11,512,1,"22,000 "
+465,Lenovo,V,16,512,14,64 bit Windows 11 Home,512,1,
+466,Acer,Predator,16,,16,Windows 11,8,1,
+467,Infinix,ZEROBOOK,16,512,15.3,Windows 11,512,1,"22,000 "
+468,Lenovo,V,8,512,15.6,64 bit Windows 11 Home,512,1,
+469,Apple,MacBook,16,512,13.6,Mac OS,512,1,"22,000 "
+470,Lenovo,Yoga,16,,13.3,Windows 11,,,"22,000 "
+471,ASUS,Vivobook,16,,15.6,Windows 11,,1,"26,000 "
+472,ASUS,Vivobook,8,512,15.6,Windows 11,512,1,
+473,Lenovo,IdeaPad,8,512,14,Windows 11,512,,"22,000 "
+474,Lenovo,LOQ,12,512,15.6,Windows 11 Home,512,1,"22,000 "
+475,Primebook,4G,4,,11.6,Android,64,1,"20,000 "
+476,Infinix,ZEROBOOK,16,512,15.6,Windows 11,512,1,"22,000 "
+477,HP,15,8,512,15.6,64 bit Windows 11 Home,512,1,
+478,ASUS,Vivobook,16,,15.6,Windows 11,,1,"26,000 "
+479,DELL,Inspiron,8,512,14,64 bit Windows 11,512,,"22,000 "
+480,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+481,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+482,Lenovo,Legion,16,,16,Windows 11,6,,"32,000 "
+483,HP,G9,16,512,15.6,64 bit Windows 11,512,,
+484,ASUS,Vivobook,16,512,16,64 bit Windows 11 Home,,1,
+485,DELL,Latitude,8,512,15.6,Linux/Ubuntu,512,,
+486,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+487,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+488,DELL,Latitude,8,512,15.6,64 bit Windows 11,512,1,
+489,Acer,Acer,8,512,15.6,Windows 11 Home,512,,"22,000 "
+490,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+491,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+492,Infinix,ZERO,16,512,15.6,Windows 11,512,1,"22,000 "
+493,ASUS,Vivobook,16,512,14,Windows 11 Home,,,"26,000 "
+494,Samsung,Galaxy,32,,16,Windows 11,,1,"22,000 "
+495,HP,AMD,16,512,15.6,Windows 11 Home,512,1,
+496,DELL,15,16,512,15.6,Windows 11 Home,512,,"22,000 "
+497,Lenovo,IdeaPad,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+498,HP,240R,16,512,14,64 bit Windows 11 Home,512,1,
+499,ASUS,Vivobook,8,512,15.6,Windows 11,512,1,"22,000 "
+500,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+501,MOTOROLA,Motobook,16,512,14,64 bit Windows 11,512,1,"22,000 "
+502,Lenovo,IdeaPad,16,512,14,Windows 11,512,,
+503,Lenovo,V,16,512,14,64 bit Windows 11 Home,512,1,
+504,Apple,MacBook,24,512,13.6,Mac OS,512,1,"22,000 "
+505,DELL,Inspiron,8,,15.6,64 bit Windows 11,,,
+506,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+507,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+508,ASUS,Vivobook,8,512,15.6,Windows 11,512,1,"26,000 "
+509,Acer,Swift,16,512,14,64 bit Windows 11 Home,512,1,"22,000 "
+510,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+511,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+512,DELL,Inspiron,8,512,14,64 bit Windows 11,512,,"22,000 "
+513,HP,AMD,8,512,14,Windows 11,512,1,
+514,ASUS,Vivobook,16,512,14,Windows 11 Home,,1,
+515,HP,15,8,512,15.6,64 bit Windows 11 Home,512,1,
+516,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+517,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+518,HP,15,16,512,15.6,Windows 11 Home,512,1,
+519,Lenovo,IdeaPad,8,512,15.6,Windows 11,512,,"22,000 "
+520,DELL,15,16,512,15.6,Windows 11 Home,512,,"22,000 "
+521,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+522,Acer,3,16,512,15.6,64 bit Windows 11 Home,512,3,
+523,HP,15R,8,512,15.6,64 bit Windows 11,512,1,
+524,HP,Pavilion,16,,14,64 bit Windows 11,,1,
+525,HP,Professional,16,512,15.6,64 bit Windows 11,512,1,
+526,Lenovo,IdeaPad,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+527,MOTOROLA,Motobook,16,512,14,64 bit Windows 11,512,1,"22,000 "
+528,ASUS,Zenbook,16,,14,Windows 11 Home,,,
+529,HP,14R,16,512,14,64 bit Windows 11 Home,512,1,
+530,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+531,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+532,DELL,16,16,,,Windows 11,8,,
+533,Lenovo,IdeaPad,16,512,14,Windows 11,512,,
+534,Lenovo,V15,8,512,15.6,DOS,512,1,
+535,Infinix,ZEROBOOK,32,,15.6,Windows 11,,1,"22,000 "
+536,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+537,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+538,Samsung,Galaxy,16,512,13.3,Windows 11,512,1,
+539,Avita,E,8,512,14.1,Windows 11 Home,512,1,"22,000 "
+540,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+541,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+542,Infinix,ZEROBOOK,16,512,15.6,Windows 11,512,1,"22,000 "
+543,ASUS,Vivobook,16,512,16,Windows 11,512,1,
+544,MSI,Intel,16,,15,Windows 11,,1,
+545,Lenovo,IdeaPad,8,512,14,Windows 11,512,,"22,000 "
+546,DELL,15,16,512,15.6,Windows 11 Home,512,,"22,000 "
+547,Lenovo,IdeaPad,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+548,DELL,Latitude,16,512,15.6,64 bit Windows 11,512,,
+549,ASUS,Vivobook,8,512,15.6,Windows 11,512,1,
+550,MOTOROLA,Motobook,16,512,14,64 bit Windows 11,512,1,"22,000 "
+551,Lenovo,Chromebook,4,,14,Chrome,128,1,"11,000 "
+552,HP,14,16,512,14,64 bit Windows 11,512,1,"22,000 "
+553,Lenovo,LOQ,16,512,15.6,Windows 11,512,,"22,000 "
+554,MICROSOFT,Surface,16,256,13,64 bit Windows 11,256,1,
+555,ASUS,Vivobook,16,512,14,Windows 11 Home,,1,"26,000 "
+556,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+557,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+558,Infinix,Y4,16,512,16,Windows 11,512,1,"22,000 "
+559,ASUS,Vivobook,16,512,15.6,Windows 11,512,,
+560,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+561,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+562,Acer,Intel,16,512,15.6,Windows 11,512,,
+563,CHUWI,Intel,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+564,ASUS,Vivobook,16,512,14,Windows 11 Home,,,"26,000 "
+565,Lenovo,V,16,512,14,64 bit Windows 11,512,1,"22,000 "
+566,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+567,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+568,Apple,MacBook,24,512,15.3,Mac OS,512,1,"22,000 "
+569,HP,15,8,256,15.6,64 bit Windows 11,256,,
+570,DELL,15,16,512,15.6,Windows 11 Home,512,,"22,000 "
+571,Lenovo,IdeaPad,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+572,HP,Intel,16,512,14,Windows 11 Home,512,,
+573,HP,Professional,32,512,14,64 bit Windows 11,,,
+574,Lenovo,LOQ,16,512,15.6,Windows 11,512,1,
+575,Acer,AMD,16,512,15.6,Windows 11 Home,512,,
+576,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+577,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+578,HP,Professional,32,512,14,64 bit Windows 11,,,
+579,Acer,AMD,16,512,15.6,Windows 11 Home,512,,
+580,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+581,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+582,HP,250R,16,512,15.6,64 bit Windows 11 Home,512,,
+583,MSI,Venture,16,512,15.6,64 bit Windows 11,512,2,"22,000 "
+584,Lenovo,IdeaPad,16,512,14,Windows 11,512,,"22,000 "
+585,ASUS,Vivobook,16,512,16,Windows 11 Home,512,1,
+586,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+587,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+588,Lenovo,V,16,512,15.6,64 bit Windows 11 Home,512,,
+589,ASUS,Vivobook,8,512,15.6,Windows 11,512,1,
+590,Acer,Nitro,16,512,15.6,64 bit Windows 11 Home,512,1,"25,000 "
+591,Lenovo,Chromebook,4,,14,Chrome,128,1,"11,000 "
+592,ASUS,Vivobook,16,512,14,Windows 11 Home,,1,"22,000 "
+593,Acer,Aspire,16,512,15.6,64 bit Windows 11 Home,512,1,"25,000 "
+594,Lenovo,IdeaPad,8,512,15.6,Windows 11 Home,512,1,"22,000 "
+595,HP,Intel,16,512,14,Windows 11 Home,512,,
+596,HP,Intel,8,512,15.6,Windows 11 Home,512,1,"22,000 "
+597,ASUS,Chromebook,4,,15.6,Chrome,64,1,"11,000 "
+598,Infinix,X3,16,512,14,Windows 11,512,1,"22,000 "
+599,HP,Victus,16,512,15.6,64 bit Windows 11,512,1,
+600,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+601,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+602,MSI,AMD,8,512,14,Windows 11,512,1,"22,000 "
+603,Samsung,Galaxy,32,,14,64 bit Windows 11,,1,"22,000 "
+604,MSI,AMD,8,512,15,Windows 11,512,1,"22,000 "
+605,Lenovo,V14,8,512,14,64 bit Windows 11,512,,
+606,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+607,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+608,HP,,8,512,15.6,64 bit Windows 11,512,1,"22,000 "
+609,Lenovo,V,16,512,15.6,64 bit Windows 11 Home,512,1,
+610,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+611,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+612,Lenovo,Intel,16,512,15.6,Windows 11 Home,512,,
+613,ASUS,Vivobook,16,512,15.6,Windows 11,512,1,
+614,HP,HP,16,512,13.3,Windows 11,512,,"22,000 "
+615,Samsung,Galaxy,16,512,15.6,Windows 11,512,1,
+616,DELL,15,16,512,15.6,Windows 11 Home,512,,"22,000 "
+617,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+618,Lenovo,IdeaPad,16,512,14,Windows 11 Home,512,1,"22,000 "
+619,DELL,Latitude,8,512,14,64 bit Windows 11 Home,512,1,"22,000 "
+620,Lenovo,IdeaPad,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+621,MOTOROLA,Motobook,16,512,14,64 bit Windows 11,512,1,"22,000 "
+622,DELL,Intel,16,512,15.6,Windows 11,512,,
+623,Samsung,Galaxy,16,,13.3,Windows 11,,1,
+624,DELL,Inspiron,16,512,14,64 bit Windows 11,512,,
+625,Acer,Predator,32,,16,64 bit Windows 11 Home,8,1,"25,000 "
+626,DELL,Inspiron,16,512,15.6,Windows 11,512,,"22,000 "
+627,DELL,16,16,512,16,Windows 11,,1,"22,000 "
+628,HP,HP,16,512,13.3,Windows 11,512,,"22,000 "
+629,DELL,Intel,16,512,15.6,Windows 11,512,,
+630,DELL,14,16,512,14,Windows 11,512,1,"22,000 "
+631,HP,Touch,4,,11.6,Chrome,32,1,
+632,Lenovo,Intel,16,,14,Windows 11,,,
+633,Samsung,Galaxy,32,,16,Windows 11,,1,"22,000 "
+634,Acer,NITRO,16,512,16,64 bit Windows 11 Home,512,1,"24,000 "
+635,DELL,G15,16,,15.6,Windows 11,6,,
+636,Samsung,Galaxy,16,512,16,64 bit Windows 11,512,1,"22,000 "
+637,Lenovo,IdeaPad,16,512,14,Windows 11,512,1,"22,000 "
+638,DELL,Inspiron,8,256,15.6,64 bit Windows 11,256,,
+639,Acer,Aspire,16,512,15.6,Windows 11 Home,512,1,
+640,Lenovo,IdeaPad,16,512,14,Windows 11,512,1,"22,000 "
+641,HP,255,8,512,15.6,64 bit Windows 11,512,1,
+642,MSI,Sword,16,,16,Windows 11,6,2,"22,000 "
+643,Acer,3,24,512,15.6,64 bit Windows 11 Home,512,3,
+644,DELL,Inspiron,8,512,15.6,64 bit Windows 11,512,1,
+645,ASUS,TUF,16,512,15.6,Windows 11,512,1,
+646,Acer,Aspire,16,512,14,64 bit Windows 11 Home,512,1,
+647,HP,Victus,16,512,15.6,Windows 11 Home,512,1,
+648,MSI,Modern,16,512,14,64 bit Windows 11,512,1,
+649,DELL,Inspiron,8,512,15.6,Windows 11,512,1,
+650,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+651,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+652,DELL,Vostro,16,512,15.6,Windows 11,512,1,
+653,Lenovo,V,24,512,14,64 bit Windows 11,512,1,
+654,HP,AMD,8,512,14,Windows 11 Home,512,,
+655,HP,EliteBook,16,512,14,64 bit Windows 11,512,1,
+656,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+657,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+658,Acer,Predator,16,,16,Windows 11,8,1,
+659,HP,15,16,512,15.6,64 bit Windows 11 Home,512,1,
+660,ASUS,Vivobook,16,512,15.6,Windows 11 Home,512,1,"26,000 "
+661,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+662,HP,G8,8,512,14,64 bit Windows 11,512,1,
+663,ASUS,Vivobook,16,512,16,Windows 11,512,1,
+664,HP,Pavilion,8,512,15.6,Windows 11,512,1,"22,000 "
+665,Lenovo,V,16,512,15.6,64 bit Windows 11,512,1,
+666,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+667,DELL,15,16,512,15.6,Windows 11 Home,512,,"22,000 "
+668,ASUS,Vivobook,8,512,15.6,Windows 11,512,1,
+669,Apple,MacBook,24,512,15.3,Mac OS,512,1,"22,000 "
+670,Lenovo,IdeaPad,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+671,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+672,Infinix,Intel,16,,15.6,Windows 11,,1,"22,000 "
+673,HP,Pavilion,16,512,15.6,64 bit Windows 11,512,1,
+674,Lenovo,V,8,512,15.6,64 bit Windows 11,512,,"22,000 "
+675,ASUS,Vivobook,16,512,16,Windows 11,512,1,
+676,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+677,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+678,Infinix,Intel,16,,15.6,Windows 11,,1,"22,000 "
+679,walker,Intel,4,128,14.1,Windows 11,128,1,"10,000 "
+680,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+681,Lenovo,LOQ,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+682,DELL,14,8,512,14,64 bit Windows 11,,1,
+683,DELL,Vostro,16,512,15.6,Windows 11,512,1,
+684,ASUS,TUF,16,512,16,Windows 11 Home,512,1,
+685,HP,Intel,8,512,15.6,Windows 11,512,1,
+686,Lenovo,IdeaPad,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+687,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+688,HP,AMD,8,512,15.6,Windows 11,512,,
+689,HP,Intel,16,512,14,64 bit Windows 11,512,1,
+690,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+691,Lenovo,Legion,16,512,,Windows 11 Home,512,,"22,000 "
+692,Acer,Aspire,8,512,15.6,64 bit Windows 11 Home,512,,
+693,ZEBRONICS,Pro,16,512,15.6,Windows 11,512,1,"22,000 "
+694,HP,Victus,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+695,HP,HP,16,512,13.3,Windows 11,512,,"22,000 "
+696,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+697,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+698,Apple,MacBook,16,512,13.6,Mac OS,512,1,"22,000 "
+699,HP,Professional,16,,14,64 bit Windows 11,,,
+700,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+701,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+702,Acer,Aspire,8,512,15.6,64 bit Windows 11 Home,512,,
+703,Lenovo,IdeaPad,8,512,14,Windows 11,512,,
+704,ASUS,Vivobook,16,,14,Windows 11 Home,,1,"26,000 "
+705,HP,15s,8,512,15.6,64 bit Windows 11,512,1,
+706,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+707,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+708,Lenovo,V,16,512,14,64 bit Windows 11 Home,512,,"22,000 "
+709,ASUS,Vivobook,16,512,16,Windows 11 Home,,1,
+710,DELL,15,16,512,15.6,Windows 11 Home,512,,"22,000 "
+711,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+712,HP,Chromebook,4,,14,64 bit Chrome,64,,"22,000 "
+713,Infinix,GT,16,512,16,Windows 11,512,1,"22,000 "
+714,MSI,Prestige,32,,14,64 bit Windows 11,,2,"22,000 "
+715,Lenovo,IdeaPad,16,512,13.3,Windows 11 Home,512,1,"22,000 "
+716,Lenovo,IdeaPad,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+717,MOTOROLA,Motobook,16,512,14,64 bit Windows 11,512,1,"22,000 "
+718,DELL,15,8,512,15.6,64 bit Windows 11,512,1,
+719,HP,250,16,512,15.6,64 bit Windows 11,512,1,
+720,DELL,Inspiron,16,512,15.6,Windows 11,512,,"22,000 "
+721,DELL,16,16,512,16,Windows 11,,1,"22,000 "
+722,ASUS,Vivobook,16,512,15.6,Windows 11 Home,512,1,
+723,DELL,14,8,512,14,64 bit Windows 11 Home,,1,
+724,MSI,Thin,8,512,15.6,Windows 11,512,2,
+725,ASUS,Vivobook,16,512,16,Windows 11 Home,512,1,
+726,DELL,14,16,512,14,Windows 11,512,1,"22,000 "
+727,MSI,Stealth,16,,17.3,Windows 11,8,2,"22,000 "
+728,Lenovo,LOQ,24,512,15.6,Windows 11 Home,512,1,"22,000 "
+729,DELL,15,8,512,15.6,Windows 11,512,,
+730,ASUS,ROG,16,,16,Windows 11 Home,8,1,"28,000 "
+731,DELL,16,16,512,16,Windows 11,512,1,"22,000 "
+732,DELL,Intel,8,512,15.6,Windows 11,512,,
+733,ZEBRONICS,Thin,16,512,15.6,Windows 11,512,1,"22,000 "
+734,MSI,Modern,16,512,15.6,64 bit Windows 11,512,1,
+735,ASUS,Vivobook,16,512,16,64 bit Windows 11 Home,512,1,
+736,HP,Chromebook,4,,14,64 bit Chrome,64,,
+737,Lenovo,IdeaPad,8,512,15.6,Windows 11,512,,
+738,MSI,Thin,16,512,15.6,Windows 11,512,2,
+739,GIGABYTE,G,16,,16,Windows 11,8,2,"22,000 "
+740,Lenovo,Yoga,32,,14,Windows 11,,,
+741,ASUS,VivoBook,8,256,15.6,64 bit Windows 11,256,1,
+742,ASUS,VivoBook,8,512,14,64 bit Windows 10,512,1,"22,000 "
+743,MSI,Katana,16,512,15.6,Windows 11,512,2,"22,000 "
+744,MSI,Thin,16,512,15.6,Windows 11,512,2,
+745,ASUS,VivoBook,8,256,14,64 bit Windows 11,256,1,"22,000 "
+746,DELL,Inspiron,16,512,15.6,Windows 11,512,,"22,000 "
+747,DELL,16,16,512,16,Windows 11,,1,"22,000 "
+748,DELL,15,16,512,15,Windows 11,512,1,
+749,MSI,Modern,16,512,15.6,Windows 11,512,1,"22,000 "
+750,DELL,14,16,512,14,Windows 11,512,1,"22,000 "
+751,ASUS,Vivobook,8,512,14,Windows 11 Home,512,1,
+752,Lenovo,Yoga,16,,14,Windows 11,,1,
+753,WINGS,Nuvobook,16,512,14,Windows 11,512,1,"22,000 "
+754,HP,Professional,16,512,15.6,64 bit Windows 11,512,,
+755,ASUS,Vivobook,16,512,14,Windows 11,,1,"22,000 "
+756,ZEBRONICS,Pro,8,512,15.6,Windows 11,512,1,"22,000 "
+757,Acer,Intel,16,512,15.6,Windows 11 Home,512,1,
+758,Acer,Swift,16,,14,Windows 11,,1,"25,000 "
+759,Infinix,Intel,8,512,14,Windows 11,512,1,"22,000 "
+760,Primebook,S,4,,11.6,Android,128,1,
+761,DELL,XPS,16,512,13,Windows 11,512,1,
+762,Lenovo,Idea,16,512,15.3,Windows 11 Home,512,1,
+763,HP,240R,8,512,14,64 bit Windows 11 Home,512,1,
+764,ASUS,Vivobook,16,512,15.6,Windows 11 Home,512,1,
+765,ASUS,Vivobook,8,512,14,Windows 11,512,1,
+766,HP,Pavilion,8,512,15.6,Windows 11,512,1,"22,000 "
+767,Lenovo,Legion,16,,15.3,64 bit Windows 11 Home,8,1,"32,000 "
+768,ASUS,Vivobook,16,512,15.6,Windows 11 Home,512,1,
+769,HP,Pavilion,8,512,15.6,Windows 11,512,1,"22,000 "
+770,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+771,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+772,Lenovo,Legion,16,,15.3,64 bit Windows 11 Home,8,1,"32,000 "
+773,ASUS,Vivobook,16,512,15.6,Windows 11,,1,
+774,HP,Pavilion,16,512,13.3,Windows 11,512,1,"22,000 "
+775,HP,15s,8,512,15.6,64 bit Windows 10,512,1,
+776,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+777,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+778,DELL,Inspiron,8,512,15.6,Windows 11,512,,
+779,Lenovo,LOQ,12,512,15.6,Windows 11,512,,
+780,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+781,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+782,Acer,Nitro,16,512,15.6,Windows 11,512,1,
+783,DELL,Vostro,4,256,14,64 bit Windows 10,256,1,"22,000 "
+784,MSI,Thin,16,,15.6,64 bit Windows 11,4,2,"22,000 "
+785,Acer,Aspire,8,512,15.6,Windows 11,512,1,
+786,DELL,15,16,512,15.6,Windows 11 Home,512,,"22,000 "
+787,Lenovo,IdeaPad,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+788,ASUS,TUF,16,512,15.6,64 bit Windows 11 Home,512,1,
+789,ZEBRONICS,Pro,8,512,15.6,Windows 11,512,1,"22,000 "
+790,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+791,MOTOROLA,Motobook,16,512,14,64 bit Windows 11,512,1,"22,000 "
+792,MSI,Titan,64,,17.3,Windows 11,12,2,"22,000 "
+793,Ultimus,Pro,4,,14.1,64 bit Windows 11 Home,128,1,"10,000 "
+794,Acer,Aspire,8,512,15.6,Windows 11,512,1,
+795,HP,FQ,8,512,15.6,64 bit Windows 11 Home,512,1,
+796,DELL,Inspiron,16,512,15.6,Windows 11,512,,"22,000 "
+797,DELL,16,16,512,16,Windows 11,,1,"22,000 "
+798,HP,OMEN,24,,16,Windows 11 Home,8,1,"22,000 "
+799,Acer,Extensa,4,256,,64 bit Windows 10,256,,
+800,DELL,14,16,512,14,Windows 11,512,1,"22,000 "
+801,DELL,Vostro,8,512,14,64 bit Windows 10,512,1,"22,000 "
+802,MSI,Stealth,32,,18,64 bit Windows 11,12,2,"22,000 "
+803,HP,250R,32,512,15.6,64 bit Windows 11 Home,512,,
+804,HP,AMD,8,512,15.6,64 bit Windows 11,512,1,
+805,HP,Intel,16,512,15.5,Windows 11,512,1,
+806,ZEBRONICS,Pro,8,512,15.6,Windows 11,512,1,"22,000 "
+807,MSI,Modern,16,512,14,Windows 11,512,1,"22,000 "
+808,MSI,Intel,16,512,15.6,Windows 11,512,1,"22,000 "
+809,HP,15,8,512,15.6,Windows 11 Home,512,1,
+810,DELL,Intel,8,512,14,64 bit Windows 11 Home,512,,
+811,HP,255,8,256,15.6,32 bit Windows 11,256,,
+812,DELL,Inspiron,4,,15.6,64 bit Windows 10,,1,"22,000 "
+813,Lenovo,V,16,512,14,64 bit Windows 11 Home,512,1,
+814,MSI,AMD,16,512,14,Windows 11,512,1,
+815,Acer,Predator,32,,16,Windows 11,12,1,"25,000 "
+816,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+817,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+818,Acer,Extensa,4,256,,64 bit Windows 10,256,,
+819,ASUS,TUF,16,512,15.6,Windows 11,512,1,
+820,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+821,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+822,ASUS,Vivobook,16,512,16,Windows 11 Home,,1,
+823,MSI,AMD,16,512,14,Windows 11,512,1,
+824,MSI,Modern,16,512,14,Windows 11,512,1,
+825,ASUS,Zenbook,32,,14,Windows 11 Home,,1,"22,000 "
+826,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+827,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+828,Acer,Predator,32,,16,Windows 11,12,1,"25,000 "
+829,HP,HP,16,512,16,Windows 11,512,,"22,000 "
+830,DELL,15,16,512,15.6,Windows 11 Home,512,,"22,000 "
+831,Lenovo,IdeaPad,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+832,Lenovo,IdeaPad,16,512,15.3,Windows 11 Home,512,1,"22,000 "
+833,HP,245,8,512,14,64 bit Windows 11 Home,512,,
+834,Acer,Swift,16,,14,64 bit Windows 11 Home,,1,"25,000 "
+835,HP,Metal,8,512,15.6,Windows 11 Home,512,1,"22,000 "
+836,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+837,MOTOROLA,Motobook,16,512,14,64 bit Windows 11,512,1,"22,000 "
+838,Lenovo,Legion,16,,16,Windows 11,8,,
+839,HP,Intel,8,512,13.3,64 bit Windows 10,512,1,"22,000 "
+840,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+841,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+842,Infinix,X1,8,256,14,64 bit Windows 11,256,1,"22,000 "
+843,HP,15R,16,512,15.6,64 bit Windows 11 Home,512,1,
+844,ASUS,Intel,8,256,15.6,Windows 11,256,1,
+845,HP,250,8,512,15.6,64 bit Windows 11,512,1,
+846,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+847,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+848,CHUWI,Intel,8,512,14,"Windows 11 Home Operating System512 GB SSD35.56 cm (14 inch) DisplayWPS Office,",512,,"22,000 "
+849,ASUS,Vivobook,16,512,16,Windows 11 Home,,1,"26,000 "
+850,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+851,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+852,ASUS,Vivobook,16,,15.6,Windows 11,,1,
+853,MSI,Modern,8,512,15.6,Windows 11,512,1,"22,000 "
+854,MSI,Thin,16,,15.6,64 bit Windows 11,4,2,"22,000 "
+855,HP,250R,8,512,15.6,64 bit Windows 11 Home,512,1,"22,000 "
+856,Acer,Nitro,16,512,15.6,64 bit Windows 11 Home,512,1,"25,000 "
+857,Lenovo,Chromebook,4,,14,Chrome,128,1,"11,000 "
+858,ASUS,TUF,16,512,15.6,Windows 11,512,,
+859,ASUS,ROG,16,,16,Windows 11 Home,,1,"32,000 "
+860,ASUS,Chromebook,4,,15.6,Chrome,64,1,"11,000 "
+861,HP,Intel,8,512,15.6,Windows 11 Home,512,1,"22,000 "
+862,Lenovo,V15,8,512,15.6,64 bit Windows 11,512,1,
+863,Lenovo,IdeaPad,8,256,14,64 bit Windows 11,256,2,
+864,GIGABYTE,G,16,,16,Windows 11,6,2,"22,000 "
+865,DELL,Latitude,8,512,15.6,64 bit Windows 11 Home,512,,
+866,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+867,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+868,Acer,Swift,16,,14,64 bit Windows 11 Home,,1,"25,000 "
+869,Lenovo,IdeaPad,16,512,15.6,Windows 11,512,,
+870,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+871,Lenovo,IdeaPad,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+872,Acer,Extensa,4,,15.6,64 bit Windows 11,,1,
+873,Acer,Aspire,8,512,15.6,Windows 11,512,1,
+874,HP,15s,8,512,15.6,64 bit Windows 11,512,1,
+875,Acer,Swift,16,512,14,64 bit Windows 11 Home,512,,
+876,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+877,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+878,HP,Pavilion,16,,15.6,Windows 11,,1,
+879,HP,OMEN,16,,16.1,64 bit Windows 11,8,1,"22,000 "
+880,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+881,Acer,Nitro,16,512,15.6,64 bit Windows 11 Home,512,1,"25,000 "
+882,Lenovo,IdeaPad,8,512,15.6,Windows 11,512,,
+883,HP,240,8,512,14,Windows 11,512,,
+884,MSI,Prestige,8,512,13.3,Windows 11,512,,"22,000 "
+885,ASUS,Zenbook,16,,14,Windows 11 Home,,,
+886,Lenovo,Chromebook,4,,14,Chrome,128,1,"11,000 "
+887,ASUS,Chromebook,4,,15.6,Chrome,64,1,"11,000 "
+888,MSI,Prestige,8,512,13.3,Windows 11,512,,"22,000 "
+889,ASUS,Zenbook,16,,14,Windows 11 Home,,,
+890,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+891,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+892,Lenovo,IdeaPad,24,,14,Windows 11 Home,,1,"22,000 "
+893,HP,15s,8,512,15.6,64 bit Windows 11,512,1,
+894,HP,OMEN,16,,16.1,64 bit Windows 10,8,1,"22,000 "
+895,DELL,Inspiron,8,512,15.6," & Storage: 8GB DDR4 & 512GB SSDGraphics & Keyboard: Radeon Graphics & Standard Keyboard15.6"" FHD WVA AG Narrow Border 120Hz 250 nitsAMD Ryzen 5 Hexa Core Processor8 GB DDR4 RAM64 bit Windows 11",512,,"22,000 "
+896,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+897,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+898,HP,OMEN,16,,16.1,64 bit Windows 11,8,1,"22,000 "
+899,HP,Pavilion,16,,15.6,Windows 11,,1,
+900,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+901,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+902,Lenovo,IdeaPad,8,512,15.6,Windows 11,512,,
+903,Acer,Aspire,16,512,15.6,64 bit Windows 11 Home,512,,
+904,Lenovo,IdeaPad,8,256,15.6,64 bit Windows 11,256,1,
+905,HP,15s,8,512,15.6,64 bit Windows 11,512,1,
+906,DELL,15,16,512,15.6,Windows 11 Home,512,,"22,000 "
+907,Lenovo,IdeaPad,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+908,HP,15s,16,512,15.6,64 bit Windows 11,512,1,
+909,Acer,Swift,16,512,14,64 bit Windows 11 Home,512,,
+910,MOTOROLA,Motobook,16,512,14,64 bit Windows 11,512,1,"22,000 "
+911,Lenovo,Chromebook,4,,14,Chrome,128,1,"11,000 "
+912,Lenovo,IdeaPad,8,512,14,Windows 11,512,,
+913,ASUS,Vivobook,16,512,14,Windows 11 Home,512,1,
+914,MSI,Modern,8,512,15.6,64 bit Windows 10,512,1,"22,000 "
+915,HP,15s,8,512,15.6,64 bit Windows 11,512,1,
+916,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+917,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+918,ASUS,Intel,16,,16,Windows 11 Home,8,1,
+919,HP,255,8,512,15.6,32 bit Windows 11,512,1,
+920,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+921,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+922,ASUS,Vivobook,16,512,14,Windows 11 Home,,,"26,000 "
+923,HP,15,8,512,15.6,64 bit Windows 11,512,1,
+924,HP,FQ,8,,15.6,64 bit Windows 11,,1,
+925,Infinix,Intel,8,512,14,Windows 11,512,1,"22,000 "
+926,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+927,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+928,ASUS,Expertbook,16,,14,Windows 11 Home,,1,"22,000 "
+929,Acer,Predator,16,,16,Windows 11,8,1,"25,000 "
+930,DELL,15,16,512,15.6,Windows 11 Home,512,,"22,000 "
+931,Lenovo,IdeaPad,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+932,ASUS,Vivobook,16,512,16,Windows 11 Home,,1,"26,000 "
+933,HP,250,8,512,15.6,64 bit Windows 11 Home,512,1,
+934,Samsung,Galaxy,8,512,15.6,Windows 11,512,1,
+935,ASUS,Vivobook,8,512,15.6,Windows 11,512,1,
+936,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+937,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+938,DELL,Latitude,8,512,15.6,64 bit Windows 11 Home,512,1,"22,000 "
+939,Lenovo,V,8,512,14,64 bit Windows 11 Home,512,1,"22,000 "
+940,HP,15,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+941,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+942,DELL,16,64,,16,Windows 11,24,1,"22,000 "
+943,ASUS,Vivobook,8,512,15.6,64 bit Windows 11 Home,512,1,
+944,DELL,Intel,8,,14,Windows 11,,,"22,000 "
+945,HP,Intel,16,512,15.6,Windows 11,512,1,
+946,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+947,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+948,HP,14s,8,512,14,64 bit Windows 11,512,1,
+949,ASUS,Vivobook,8,512,14,64 bit Windows 11 Home,512,1,
+950,ASUS,Vivobook,16,512,15.6,Windows 11 Home,512,1,"26,000 "
+951,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+952,MSI,Cyborg,16,512,15.6,Windows 11,512,2,"22,000 "
+953,Samsung,Galaxy,16,512,15.6,Windows 11,512,1,"22,000 "
+954,DELL,AMD,8,512,15.6,Windows 11,512,,
+955,Lenovo,IdeaPad,16,512,14,Windows 11,512,,
+956,DELL,15,16,512,15.6,Windows 11 Home,512,,"22,000 "
+957,Lenovo,IdeaPad,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+958,Lenovo,LOQ,16,512,15.6,Windows 11,512,1,
+959,Acer,Chromebook,8,256,14,Chrome,256,1,
+960,Samsung,Galaxy,16,512,15.6,64 bit Windows 11,512,1,"22,000 "
+961,Acer,Chromebook,8,,15.6,Chrome,128,1,"11,000 "
+962,MSI,Cyborg,16,512,15.6,Windows 11,512,2,"22,000 "
+963,HP,247,8,,14,Windows 11,,1,
+964,DELL,Inspiron,8,512,15.6,64 bit Windows 11 Home,512,,
+965,MSI,Vector,32,,18,64 bit Windows 11,16,2,"22,000 "
+966,Lenovo,100e,4,,11.6,Chrome,32,1,"8,200 "
+967,Lenovo,100e,4,,11.6,Chrome,64,1,"9,500 "
+968,DELL,Vostro,8,512,15.6,Windows 11,512,1,"22,000 "
+969,ASUS,ROG,32,,14,Windows 11 Home,,1,"32,000 "
+970,HP,MSO,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+971,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+972,ASUS,VivoBook,8,512,14,64 bit Windows 10,512,1,"22,000 "
+973,HP,14,8,512,14,64 bit Windows 11,512,1,
+974,Acer,Aspire,16,512,15.6,Windows 11,512,1,"22,000 "
+975,MICROSOFT,12,16,512,12,64 bit Windows 11 Home,512,1,
+976,DELL,15,16,512,15.6,Windows 11 Home,512,,"22,000 "
+977,Lenovo,IdeaPad,16,512,15.6,Windows 11 Home,512,1,"22,000 "
+978,DELL,Latitude,16,512,15.6,64 bit Windows 11,512,,
+979,MSI,Prestige,16,,14,Windows 11,,2,"22,000 "
+980,ASUS,Vivobook,8,512,15.6,Windows 11 Home,512,1,"26,000 "
+981,MOTOROLA,Motobook,16,512,14,64 bit Windows 11,512,1,"22,000 "
+982,Acer,Aspire,16,512,15.6,Windows 11,512,1,
+983,Lenovo,Ideapad,8,256,15.6,64 bit Windows 10,256,1,"22,000 "
